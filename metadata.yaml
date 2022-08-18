@@ -1,5 +1,8 @@
 _repo: The-micro-organisms-of-the-soil_68670
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68670-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Station, Members of the biological staff of The Rothamsted Experimental
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '54895'
     url: http://www.gutenberg.org/2009/agents/54895
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68670#The-micro-organisms-of-the-soil
 gutenberg_issued: '2022-08-03'
 identifiers:
   gutenberg: '68670'
