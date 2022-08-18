@@ -1,0 +1,30 @@
+_repo: The-micro-organisms-of-the-soil_68670
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Station, Members of the biological staff of The Rothamsted Experimental
+    gutenberg_agent_id: '54896'
+    url: http://www.gutenberg.org/2009/agents/54896
+  - agent_name: Russell, Sir E. John
+    gutenberg_agent_id: '54895'
+    url: http://www.gutenberg.org/2009/agents/54895
+description: ''
+gutenberg_issued: '2022-08-03'
+identifiers:
+  gutenberg: '68670'
+language: en
+pgterms:marc904: https://archive.org/details/microorganismsof00russuoft/page/n5/mode/2up
+pgterms:marc905: 20210131132820russellfrs
+pgterms:marc906: '1923'
+pgterms:marc907: GB
+production_note: Charlene Taylor, Harry Lamé and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: United Kingdom :Longmans, Green and Co.,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The micro-organisms of the soil
+url: http://www.gutenberg.org/ebooks/68670
